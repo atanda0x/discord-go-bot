@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 
+	"github.com/atanda0x/discord-go-bot/bot"
 	"github.com/atanda0x/discord-go-bot/config"
 )
 
